@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdamAlawdi
-- 👀 I’m interested in programming
-- 🌱 I’m currently Studying CSE 
-- 💞️ I’m looking to do own Business
+- 👀 I’m interested in C++, Python,Data science and web development.
+-🌱 Currently, I'm pursuing my undergraduate in computer sciene and Engineering from Lovely Professional University.
+-💞️ I’m looking to do own Business
 - 📫 How to reach me 
       Email: adamaloudi2017@gmail.com 
       Mob No: +91 9701593036
